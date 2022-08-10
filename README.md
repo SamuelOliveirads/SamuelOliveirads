@@ -4,18 +4,19 @@ My name is Samuel Oliveira Alves de Freitas. I am a 24-year-old Brazilian data s
 
 #### My projects:
 
+- Rank-to-learn for Cross-sell in Health Insurance (in progress) [click here](https://github.com/SamuelOliveirads/Health_Insurance_Cross_Sell)
+- Web Scraping and ETL applied to Jeans Retail Insights (in progress) [click here](https://github.com/SamuelOliveirads/webscraping_jeans)
 - Time Series Regression Applied to Sales Forecasting [click here](https://github.com/SamuelOliveirads/rossman_project)
-- Web Scraping Applied to Jeans Retail Insights (in progress) [click here](https://github.com/SamuelOliveirads/webscraping_jeans)
 - Insights for House Sales [click here](https://github.com/SamuelOliveirads/project_insight_house_rocket)
 ----------------------------------
 #### Analytical Tools:
 
-- Data Collecting: SQL, DBeaver, SQLite.
+- Data Collecting: SQL, DBeaver, PostgreSQL, SQLite.
 - Data Processing and Analysis: Python, Pandas, Numpy, Seaborn, Scikit-learn, XGBoost, Boruta, BeautifulSoup.
-- Development: Git
-- Data Visualization: Streamlit
-- Machine Learning Modeling: Regression.
-- Machine Learning Deployment: Heroku.
+- Development: Git, Github, Gitlab.
+- Data Visualization: Streamlit.
+- Machine Learning Modeling: Regression, Rank-to-learn.
+- Deployment: Heroku, Flask.
 ----------------------------------
 About me:
 
