@@ -1,15 +1,21 @@
 ### Hi there 👋
 
-My name is Samuel Oliveira Alves de Freitas. I am a 24-year-old Brazilian data scientist looking for an entry-level job. I earned a bachelor's degree in Accounting in 2021 but decided to use my analytical skills to build data solutions. Please check out my [Data Science Portfolio](https://samueloliveirads.github.io/portfolio_projetos/). Some new projects are on their way soon! It would be a pleasure to be part of your network on LinkedIn. Feel free to contact me anytime.
 
-#### My projects:
+My name is Samuel Oliveira Alves de Freitas. I am a 24-year-old Brazilian data scientist looking for an entry-level job. I earned a bachelor's degree in Accounting in 2021 but decided to use my analytical skills to build data solutions. 
 
-- Rank-to-learn for Cross-sell in Health Insurance (in progress) [click here](https://github.com/SamuelOliveirads/Health_Insurance_Cross_Sell)
-- Web Scraping and ETL applied to Jeans Retail Insights (in progress) [click here](https://github.com/SamuelOliveirads/webscraping_jeans)
-- Time Series Regression Applied to Sales Forecasting [click here](https://github.com/SamuelOliveirads/rossman_project)
-- Insights for House Sales [click here](https://github.com/SamuelOliveirads/project_insight_house_rocket)
+The main objective of this data science personal project portfolio is to demonstrate my skills in solving business challenges through my knowledge and tools of Data Science, please check out my [Data Science Portfolio](https://samueloliveirads.github.io/portfolio_projetos/). 
+
+I have already developed solutions for important business problems such as ranking customers, regression for sales forecasting.
+
+The details of each solution are described in the projects below.
+
+**Links:**
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/samuel-oliveira-alves-/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:samueloliveira32df@gmail.com)](mailto:samueloliveira32df@gmail.com)
+
 ----------------------------------
-#### Analytical Tools:
+### Analytical Tools:
 
 - Data Collecting: SQL, DBeaver, PostgreSQL, SQLite.
 - Data Processing and Analysis: Python, Pandas, Numpy, Seaborn, Scikit-learn, XGBoost, Boruta, BeautifulSoup.
@@ -18,10 +24,28 @@ My name is Samuel Oliveira Alves de Freitas. I am a 24-year-old Brazilian data s
 - Machine Learning Modeling: Regression, Rank-to-learn.
 - Deployment: Heroku, Flask.
 ----------------------------------
-About me:
+### Data Science Projects:
 
-- 🔭 I’m currently working on Classification problems.
-- 🌱 I’m currently learning Data Science.
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/samuel-oliveira-alves-/)
-- 😄 Pronouns: He/Him
-- 💹 Availability: Able to start working immediately
+#### [Rank-to-learn for Cross-sell in Health Insurance (in progress)](https://github.com/SamuelOliveirads/Health_Insurance_Cross_Sell) 
+
+Machine Learning with Rank-to-learn to detect the best customers to cross-sell insurance.
+In this project I develop an Machine Learning Model that classifies customers to those most likely to purchase car insurance for a company that already has Health insurance sales.
+
+
+#### [Time Series Regression Applied to Sales Forecasting](https://github.com/SamuelOliveirads/rossman_project)
+
+Machine Learning with regression and time series for sales forecasting.
+In this project I developed an algorithm that predicts the sales of a company for the next 6 weeks with a maximum error of 9%. I also found a possible insight that could increase the annual revenue by at least 8%.
+
+### Data Anaysis - Insight Projets
+
+#### [Insights for buying and selling House](https://github.com/SamuelOliveirads/project_insight_house_rocket)
+
+Project with the objective of analyzing real estate prices and finding potential purchase and sale prices through data analysis and Insights exposure.
+The proposed strategy enables an increase of approximately 28% in revenue.
+
+### Data Engineering - ETL Projets
+
+#### [Web Scraping and ETL applied to Jeans Retail Insights (in progress)](https://github.com/SamuelOliveirads/webscraping_jeans)
+
+In this project I collect data from a Jeans company's website using web scraping and save it to a local database to generate insights about the market.
