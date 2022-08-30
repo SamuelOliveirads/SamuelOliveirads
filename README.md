@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-My name is Samuel Oliveira Alves de Freitas. I am a 24-year-old Brazilian data scientist looking for an entry-level job. I earned a bachelor's degree in Accounting in 2021 but decided to use my analytical skills to build data solutions. 
+My name is Samuel Oliveira Alves de Freitas. I am a 25-year-old Brazilian data scientist looking for an entry-level job. I earned a bachelor's degree in Accounting in 2021 but decided to use my analytical skills to build data solutions. 
 
 The main objective of this data science personal project portfolio is to demonstrate my skills in solving business challenges through my knowledge and tools of Data Science, please check out my [Data Science Portfolio](https://samueloliveirads.github.io/portfolio_projetos/). 
 
@@ -17,20 +17,19 @@ The details of each solution are described in the projects below.
 ----------------------------------
 ### Analytical Tools:
 
-- Data Collecting: SQL, DBeaver, PostgreSQL, SQLite.
-- Data Processing and Analysis: Python, Pandas, Numpy, Seaborn, Scikit-learn, XGBoost, Boruta, BeautifulSoup.
+- Data Collecting: SQL, DBeaver, PostgreSQL, SQLite, MongoDB.
+- Data Processing and Analysis: Python, Pandas, Numpy, Seaborn, Scikit-learn, Boruta, BeautifulSoup.
 - Development: Git, Github, Gitlab.
-- Data Visualization: Streamlit.
-- Machine Learning Modeling: Regression, Rank-to-learn.
-- Deployment: Heroku, Flask.
+- Data Visualization: Matplotlib, Seaborn, Plotly.
+- Machine Learning Modeling: Regression, Classification/Rank-to-learn.
+- Deployment and Clouds: Streamlit, Heroku, Flask, Google Sheets, Telegram bot.
 ----------------------------------
 ### Data Science Projects:
 
-#### [Rank-to-learn for Cross-sell in Health Insurance (in progress)](https://github.com/SamuelOliveirads/Health_Insurance_Cross_Sell) 
+#### [Rank-to-learn for Cross-sell in Health Insurance](https://github.com/SamuelOliveirads/Health_Insurance_Cross_Sell) 
 
 Machine Learning with Rank-to-learn to detect the best customers to cross-sell insurance.
-In this project I develop an Machine Learning Model that classifies customers to those most likely to purchase car insurance for a company that already has Health insurance sales.
-
+In this project I develop an Machine Learning Model that classifies customers to those most likely to purchase car insurance for a company that already has Health insurance sales. The implementation of the project can deliver a financial gain from 10.34M to 27.54M, an increase of 2.66x from the value.
 
 #### [Time Series Regression Applied to Sales Forecasting](https://github.com/SamuelOliveirads/rossman_project)
 
