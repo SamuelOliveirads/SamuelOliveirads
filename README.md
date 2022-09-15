@@ -9,10 +9,12 @@ I have already developed solutions for important business problems such as ranki
 
 The details of each solution are described in the projects below.
 
-**Links:**
+**Contacts:**
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/samuel-oliveira-alves-/)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:samueloliveira32df@gmail.com)](mailto:samueloliveira32df@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samuel-oliveira-alves-/)
+[![Portfolio Badge](https://img.shields.io/badge/Portfolio-7289DA?style=for-the-badge&logo=&logoColor=white)](https://samueloliveirads.github.io/portfolio_projetos/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:samueloliveira32df@gmail.com)](mailto:samueloliveira32df@gmail.com)
+
 
 ----------------------------------
 ### Analytical Tools:
@@ -21,10 +23,14 @@ The details of each solution are described in the projects below.
 - Data Processing and Analysis: Python, Pandas, Numpy, Seaborn, Scikit-learn, Boruta, BeautifulSoup.
 - Development: Git, Github, Gitlab.
 - Data Visualization: Matplotlib, Seaborn, Plotly.
-- Machine Learning Modeling: Regression, Classification/Rank-to-learn.
+- Machine Learning Modeling: Regression, Classification/Rank-to-learn, Clustering.
 - Deployment and Clouds: Streamlit, Heroku, Flask, Google Sheets, Telegram bot.
 ----------------------------------
 ### Data Science Projects:
+
+#### [Clustering Applied to Customer Segmentation in e-commerce (in progress)](https://github.com/SamuelOliveirads/Insiders-Loyalty-Program)
+
+Project focused on creating a loyalty program with the most valuable customers of a UK ecommerce company. finding the most valuable customers for the company, who will be eligible for the Insiders loyalty program, as well as providing a detailed profile description of these customers.
 
 #### [Rank-to-learn for Cross-sell in Health Insurance](https://github.com/SamuelOliveirads/Health_Insurance_Cross_Sell) 
 
