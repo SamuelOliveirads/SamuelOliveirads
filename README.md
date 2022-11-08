@@ -28,7 +28,7 @@ The details of each solution are described in the projects below.
 ----------------------------------
 ### Data Science Projects:
 
-#### [Classification applied to First booking prediction for new Airbnb users](https://github.com/SamuelOliveirads/airbnb_classifier)
+#### [Classification applied to First booking prediction for new Airbnb users (in progress)](https://github.com/SamuelOliveirads/airbnb_classifier)
 
 Ranking new users for their first reservation given a number of available countries, using techniques for multi-class and unbalancing.
 
