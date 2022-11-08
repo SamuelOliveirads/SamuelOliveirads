@@ -20,13 +20,17 @@ The details of each solution are described in the projects below.
 ### Analytical Tools:
 
 - Data Collecting: SQL, DBeaver, PostgreSQL, SQLite, MongoDB.
-- Data Processing and Analysis: Python, Pandas, Numpy, Seaborn, Scikit-learn, Boruta, BeautifulSoup.
+- Data Processing and Analysis: Python, Pandas, Numpy, Seaborn, Scikit-learn, Boruta, BeautifulSoup, Selenium.
 - Development: Git, Github, Gitlab.
-- Data Visualization: Matplotlib, Seaborn, Plotly.
-- Machine Learning Modeling: Regression, Classification/Rank-to-learn, Clustering.
-- Deployment and Clouds: Streamlit, Heroku, Flask, Google Sheets, Telegram bot.
+- Data Visualization: Matplotlib, Seaborn, Plotly, Folium.
+- Machine Learning Modeling: Regression, Classification, Rank-to-learn, Clustering, Time Series.
+- Deployment and Clouds: Streamlit, Heroku, Fly.io, Flask, Google Sheets, Telegram bot.
 ----------------------------------
 ### Data Science Projects:
+
+#### [Classification applied to First booking prediction for new Airbnb users](https://github.com/SamuelOliveirads/airbnb_classifier)
+
+Ranking new users for their first reservation given a number of available countries, using techniques for multi-class and unbalancing.
 
 #### [Clustering Applied to Customer Segmentation in e-commerce (in progress)](https://github.com/SamuelOliveirads/Insiders-Loyalty-Program)
 
@@ -44,6 +48,10 @@ In this project I developed an algorithm that predicts the sales of a company fo
 
 ### Data Anaysis - Insight Projets
 
+#### [Analysis and strategies for buying and selling in the variable income market](https://github.com/SamuelOliveirads/backtesting_strategies_for_equities)
+
+ Analysis of the oil and gas market, its volatility, yields and impacts of financial indicators and application of buy and sell strategies for portfolio composition. Time Series models were also applied to forecast the daily stock volatility with an average error of 1.4%.
+
 #### [Insights for buying and selling House](https://github.com/SamuelOliveirads/project_insight_house_rocket)
 
 Project with the objective of analyzing real estate prices and finding potential purchase and sale prices through data analysis and Insights exposure.
@@ -54,3 +62,13 @@ The proposed strategy enables an increase of approximately 28% in revenue.
 #### [Web Scraping and ETL applied to Jeans Retail Insights (in progress)](https://github.com/SamuelOliveirads/webscraping_jeans)
 
 In this project I collect data from a Jeans company's website using web scraping and save it to a local database to generate insights about the market.
+
+### Competitions
+
+#### [Classification applied for credit card limit increase](https://github.com/SamuelOliveirads/Hackday_3_edicao_Comunidade_DS)
+
+In this competition, which lasted an average of one and a half days, the team, composed of four members, developed a credit card limit increase evaluation model for Billion Bank.
+
+#### [Regression applied to forecast the sales values of used cars](https://github.com/SamuelOliveirads/Hackday_2_edicao_Comunidade-DS)
+
+In this competition, which lasted an average of one and a half days, the team, composed of five members, developed a project to forecast the value of used cars with the objective of reducing Mobility Cars' stock.
