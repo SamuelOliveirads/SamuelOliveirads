@@ -32,7 +32,7 @@ The details of each solution are described in the projects below.
 
 Ranking new users for their first reservation given a number of available countries, using techniques for multi-class and unbalancing.
 
-#### [Clustering Applied to Customer Segmentation in e-commerce (in progress)](https://github.com/SamuelOliveirads/Insiders-Loyalty-Program)
+#### [Clustering Applied to Customer Segmentation in e-commerce](https://github.com/SamuelOliveirads/Insiders-Loyalty-Program)
 
 Project focused on creating a loyalty program with the most valuable customers of a UK ecommerce company. finding the most valuable customers for the company, who will be eligible for the Insiders loyalty program, as well as providing a detailed profile description of these customers.
 
