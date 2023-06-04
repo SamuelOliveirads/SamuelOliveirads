@@ -24,6 +24,7 @@ The details of each solution are described in the projects below.
 - **Development:** Git, Github, Gitlab, WSL.
 - **Data Visualization:** Matplotlib, Seaborn, Plotly, Folium.
 - **Machine Learning Modeling:** Regression, Classification, Rank-to-learn, Clustering, Time Series, Ensemble Methods, NA Value Imputation.
+- **A/B Test Modeling:** A/B Testing, Bayesian Inference, Multi-Armed Bandit.
 - **Deployment and Clouds:** Streamlit, Heroku, Fly.io, Flask, Google Sheets, Telegram bot, AWS.
 ----------------------------------
 ### Data Science Projects:
@@ -50,16 +51,16 @@ In this project I developed an algorithm that predicts the sales of a company fo
 
 #### [Multi-Armed Bandit Test for Page Optimization](https://github.com/SamuelOliveirads/mab_project)
 
-Ongoing project for selecting the best performing page on a website.
+Project for selecting the best performing page on a website using MAB.
 
-#### [A/B Testing with Bayesian Methods for iSketch](https://github.com/SamuelOliveirads/bayesian_project)
+#### [A/B Testing with Bayesian Methods for iSketch](https://github.com/SamuelOliveirads/bayesian_test)
 
 Worked on improving the conversion rate of iSketch's email capture page.
 
-#### [A/B/n Testing at the University of Montana](https://github.com/SamuelOliveirads/abn_project)
+#### [A/B/n Testing at the University of Montana](https://github.com/SamuelOliveirads/abn_test)
 
 Conducted an A/B/n test to increase the click-through rate of a category on the University of Montana's library webpage.
-#### [A/B Testing to improve page conversion](https://github.com/SamuelOliveirads/ab_project)
+#### [A/B Testing to improve page conversion](https://github.com/SamuelOliveirads/ab_testing)
 
 Worked on a project for Electronic House to increase the conversion rate of a product's sales page.
 
