@@ -29,6 +29,10 @@ The details of each solution are described in the projects below.
 ----------------------------------
 ### Data Science Projects:
 
+#### [Price Elasticity applied to E-commerce](https://github.com/SamuelOliveirads/price-elasticity-project)
+
+Project with the objective of understanding the relationship between product demand and price changes for an e-commerce company.
+
 #### [Classification applied to First booking prediction for new Airbnb users](https://github.com/SamuelOliveirads/airbnb_classifier)
 
 Ranking new users for their first reservation given a number of available countries, using techniques for multi-class and unbalancing.
